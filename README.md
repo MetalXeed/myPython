@@ -1,2 +1,6 @@
 # myPython
-Repository for edx pyton courses
+Repository for pyton courses
+
+Programing for Everybody.
+Machine Learning.
+UML.
